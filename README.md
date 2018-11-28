@@ -26,3 +26,5 @@ Missing (will not be provided due to little need for it):
 
 TODO:
 - Saving to EEPROM fails :/
+
+Discuss <a href="http://fabrykator.pl/board/viewtopic.php?f=12&t=1767" target=_blank>here</a>.
