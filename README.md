@@ -11,7 +11,7 @@ Instructions:
 3. For consistency - search for Teensyduino libraries installation folder and add support for AT90USB1287 which is quite the same as AT90USB1286. 
 	OSX users can download AT90USB folder and put it (update) in ~/Documents/Arduino/hardware/
 	Another, not tested way is to pretend that the board has AT90USB1286 chip - should compile fine.
-4. Open Marlin.ino from Gate2MarlinFirmware check settings - adjust to your needs.
+4. Open Gate2MarlinFirmware.ino from Gate2MarlinFirmware check settings - adjust to your needs.
 5. Upload firmware to board - the board has SPI interface - any method should work, Arduino Mega as programmer is tested and works.
 
 Check attached pinout drawing for reference.
